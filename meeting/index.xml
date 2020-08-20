@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetings on Parlons London</title>
+    <link>https://parlonslondon.github.io/meeting/</link>
+    <description>Recent content in Meetings on Parlons London</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 19 Aug 2020 22:55:03 -0400</lastBuildDate>
+    
+	<atom:link href="https://parlonslondon.github.io/meeting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prochaine réunion / Next meeting</title>
+      <link>https://parlonslondon.github.io/meeting/2020-08-22/</link>
+      <pubDate>Wed, 19 Aug 2020 22:55:03 -0400</pubDate>
+      
+      <guid>https://parlonslondon.github.io/meeting/2020-08-22/</guid>
+      <description>&lt;p&gt;Notre prochaine réunion en ligne / &lt;em&gt;Our next online meeting&lt;/em&gt;&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Heure / Time&lt;/dt&gt;
+&lt;dd&gt;Samedi 2020-08-22 14h30 heure de l&amp;rsquo;Est / Saturday 2020-08-22 14:30 Eastern&lt;/dd&gt;
+&lt;dt&gt;URL&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;https://westernuniversity.zoom.us/j/96489379313?pwd=SGJqdStYNUN5K2wzSEFxVmoxT3luUT09&#34;&gt;https://westernuniversity.zoom.us/j/96489379313?pwd=SGJqdStYNUN5K2wzSEFxVmoxT3luUT09&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
