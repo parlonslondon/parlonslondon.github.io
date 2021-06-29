@@ -6,7 +6,7 @@
     <description>Recent content on Parlons London</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 28 Jun 2021 21:12:35 -0400</lastBuildDate><atom:link href="https://parlonslondon.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Jun 2021 21:20:08 -0400</lastBuildDate><atom:link href="https://parlonslondon.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos de nous / About Us</title>
       <link>https://parlonslondon.ca/about/</link>
@@ -25,9 +25,26 @@
     <item>
       <title>Prochaine réunion / Upcoming meeting</title>
       <link>https://parlonslondon.ca/meeting/2021-07-03/</link>
-      <pubDate>Mon, 28 Jun 2021 21:12:35 -0400</pubDate>
+      <pubDate>Mon, 28 Jun 2021 21:20:08 -0400</pubDate>
       
       <guid>https://parlonslondon.ca/meeting/2021-07-03/</guid>
+      <description>&lt;p&gt;Notre prochaine réunion en ligne / &lt;em&gt;Our next online meeting&lt;/em&gt;&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Heure / Time&lt;/dt&gt;
+&lt;dd&gt;Samedi 2021-07-03 14h30 heure de l&amp;rsquo;Est&lt;br&gt;
+&lt;em&gt;Saturday 2021-07-03 02:30 PM Eastern&lt;/em&gt;&lt;/dd&gt;
+&lt;dt&gt;URL&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;https://westernuniversity.zoom.us/j/96489379313?pwd=SGJqdStYNUN5K2wzSEFxVmoxT3luUT09&#34;&gt;https://westernuniversity.zoom.us/j/96489379313?pwd=SGJqdStYNUN5K2wzSEFxVmoxT3luUT09&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Or use &lt;a href=&#34;https://zoom.us/&#34;&gt;Zoom&lt;/a&gt; meeting ID 964 8937 9313 password &amp;ldquo;ensemble&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prochaine réunion / Upcoming meeting</title>
+      <link>https://parlonslondon.ca/page/reunion/</link>
+      <pubDate>Mon, 28 Jun 2021 21:20:08 -0400</pubDate>
+      
+      <guid>https://parlonslondon.ca/page/reunion/</guid>
       <description>&lt;p&gt;Notre prochaine réunion en ligne / &lt;em&gt;Our next online meeting&lt;/em&gt;&lt;/p&gt;
 &lt;dl&gt;
 &lt;dt&gt;Heure / Time&lt;/dt&gt;
