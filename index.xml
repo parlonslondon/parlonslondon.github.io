@@ -6,7 +6,7 @@
     <description>Recent content on Parlons London</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 20 Mar 2022 20:26:19 -0400</lastBuildDate><atom:link href="https://parlonslondon.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 20:13:32 -0400</lastBuildDate><atom:link href="https://parlonslondon.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos de nous / About Us</title>
       <link>https://parlonslondon.ca/about/</link>
@@ -14,10 +14,19 @@
       
       <guid>https://parlonslondon.ca/about/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;Rejoignez-nous à notre groupe de &lt;a href=&#34;https://link.heylo.co/j7nz&#34;&gt;Heylo&lt;/a&gt;. &lt;em&gt;Join us on our Heylo group.&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Pour rejoindre notre liste de diffusion, envoyez un e-mail vierge à &lt;a href=&#34;mailto:parlonslondon+subscribe@groups.io&#34;&gt;parlonslondon+subscribe@groups.io&lt;/a&gt;&lt;br&gt;
 &lt;em&gt;To join our mailing list send a blank email to &lt;a href=&#34;mailto:parlonslondon+subscribe@groups.io&#34;&gt;parlonslondon+subscribe@groups.io&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Rejoignez-nous à notre groupe de &lt;a href=&#34;https://www.meetup.com/French-Conversation-in-London/&#34;&gt;Meetup&lt;/a&gt;. &lt;em&gt;Join us on our Meetup group.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Moving Group from Meetup to Heylo</title>
+      <link>https://parlonslondon.ca/post/heylo-change/</link>
+      <pubDate>Tue, 26 Sep 2023 20:13:32 -0400</pubDate>
+      
+      <guid>https://parlonslondon.ca/post/heylo-change/</guid>
+      <description>We are moving the group from Meetup to Heylo. Heylo offers us the same facilities that we currently use on Meetup but is simpler to use and much better value. Please join us there: https://link.heylo.co/j7nz Our subscription to Meetup services expires on October 3, 2023. We have updated the Meetup group description to explain the change, and no further meeting changes or announcements will be made there. No change to the meeting times or location is planned at the moment so if you aren&amp;rsquo;t able to join Heylo immediately then you can still attend at the usual time.</description>
     </item>
     
     <item>
@@ -27,8 +36,8 @@
       
       <guid>https://parlonslondon.ca/page/reunions/</guid>
       <description>&lt;dl&gt;
-&lt;dt&gt;Toutes nos rencontres sont annoncées ici / _All of our meetings are announced here&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;https://www.meetup.com/French-Conversation-in-London&#34;&gt;https://www.meetup.com/French-Conversation-in-London&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;Toutes nos rencontres sont annoncées ici / _All of our meetings are announced in our Heylo group, to join:&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;https://link.heylo.co/j7nz&#34;&gt;https://link.heylo.co/j7nz&lt;/a&gt;&lt;/dd&gt;
 &lt;/dl&gt;</description>
     </item>
     
